@@ -1,0 +1,66 @@
+body {
+  background-color: gainsboro;
+
+}
+
+
+.left {
+  background-color: rgb(230, 240, 248);
+  display: inline-block;
+  width: 30%;
+  padding: 20px;
+  margin-right: 12.5px;
+  margin-left: 50px;
+  vertical-align: top;
+  box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3);
+}
+
+.right {
+  background-color: aliceblue;
+  display: inline-block;
+  width: 52%;
+  padding: 20px;
+  vertical-align: top;
+  box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.3);
+}
+
+hr {
+  background-color: black;
+  height: 2px;
+}
+
+h2 {
+  color: #069A8E;
+  text-align: left;
+}
+
+
+progress {
+  -webkit-appearabce: none background-color:;
+  accent-color: #069A8E;
+
+}
+
+span {
+  margin-left: 10px;
+  font-size: 1.1em;
+}
+
+span b {
+  font-size: 80%;
+  font-weight: normal
+}
+
+strong {
+  font-size: 1.1em;
+}
+
+.Summary {
+  line-height: 1.5;
+}
+
+.left-image{
+  float: left;
+  margin-right: 30px;
+}
+
